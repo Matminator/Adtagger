@@ -1,3 +1,4 @@
 # Adtagger
 
-![Image Alt Text](images/adtagger_logo.png | width=100)
+<img src="images/adtagger_logo.png" alt="Image Alt Text" width="100">
+
