@@ -1,3 +1,3 @@
 # Adtagger
 
-![images/adtagger_logo.png](images/your_image.png | width=100)
+![Image Alt Text](images/adtagger_logo.png | width=100)
